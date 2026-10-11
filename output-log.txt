@@ -1,0 +1,5 @@
+Pet expedition demo ready
+[RobloxAI] Plugin loaded.  Click 'AI Assistant' in the Plugins toolbar to connect.
+[RobloxAI] Plugin loaded.  Click 'AI Assistant' in the Plugins toolbar to connect.
+[Roblox][sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Actions.ExecuteLuauActions] The execute_luau changed camera type. Resetting from Enum.CameraType.Scriptable back to Enum.CameraType.Fixed
+[Roblox][sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Actions.ExecuteLuauActions] The execute_luau changed camera type. Resetting from Enum.CameraType.Custom back to Enum.CameraType.Fixed
